@@ -11,22 +11,40 @@
     <script src="~/js/scripts.js" defer></script>
 </head>
 <body>
-    <div class="container">
-        <h1>Login</h1>
 
-        <form method="post" action="/Login/Entrar">
-            <label>Email:</label>
-            <input type="email" name="email" id="usuario">
 
-            <label>Senha</label>
-            <input type="password" name="senha" id="senha">
-
-            <button type="submit">Entrar</button>
-
-            <div class="erro">@ViewBag.Erro</div>
-
-        </form>
-    </div>
+    <<main class="container-login">
+        <div class="borda">
+            <img src="~/logo.png" alt="Logo Readery" class="logo-login">
+    
+            <form id="loginForm"> 
+                <section class="forms">
+                    <div class="usuario">
+                        <label for="usuario">Usuário</label>
+                        <input type="text" id="usuario" placeholder="Nome de usuário" required>
+                    </div>
+    
+                    <div class="senha">
+                        <label for="senha">Senha</label>
+                        <input type="password" id="senha" placeholder="*******" required>
+                    </div>
+                </section>
+    
+                <a href="#" class="link-esqueci">Esqueci minha senha</a>
+    
+                <p id="mensagemErro" class="loginErro">@ViewBag.Erro</p>
+    
+                <div class="lembre-se">
+                    <input type="checkbox" id="lembre-se">Lembre-se de mim
+                </div>
+    
+                <section class="botoes">
+                    <button type="submit" id="botaoEntrar" class="botao-entrar">Entrar</button>
+                    <a href="#" class="botao-cadastro">Cadastre-se</a>
+                </section>
+            </form>
+        </div>
+    </main>
 
 </body>
 </html>

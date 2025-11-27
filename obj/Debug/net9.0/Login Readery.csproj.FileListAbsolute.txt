@@ -251,5 +251,6 @@ C:\Users\54568719801\Desktop\Login Readery\obj\Debug\net9.0\refint\Login Readery
 C:\Users\54568719801\Desktop\Login Readery\obj\Debug\net9.0\Login Readery.pdb
 C:\Users\54568719801\Desktop\Login Readery\obj\Debug\net9.0\Login Readery.genruntimeconfig.cache
 C:\Users\54568719801\Desktop\Login Readery\obj\Debug\net9.0\ref\Login Readery.dll
-C:\Users\54568719801\Desktop\Login Readery\obj\Debug\net9.0\compressed\7syx1eoz3i-tf1oaswt6j.gz
-C:\Users\54568719801\Desktop\Login Readery\obj\Debug\net9.0\compressed\2fpzznre09-2ivbdk2lln.gz
+C:\Users\54568719801\Desktop\Login Readery\obj\Debug\net9.0\Login Readery.sourcelink.json
+C:\Users\54568719801\Desktop\Login Readery\obj\Debug\net9.0\compressed\7syx1eoz3i-3u4xnh2bz5.gz
+C:\Users\54568719801\Desktop\Login Readery\obj\Debug\net9.0\compressed\2fpzznre09-3r8b2a0bt1.gz
