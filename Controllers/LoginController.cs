@@ -32,8 +32,6 @@ namespace Login_Readery.Controllers
             // hash da senha digitada
             byte[] senhaDigitadaHash = HashService.GerarHashBytes(senha);
 
-            // buscar usuário pelo email
-            // FirstOrDefault -> procura o usuário pelo email, se não encontrar retorna null
             var usuario = _context.Usuarios.FirstOrDefault(usuario => usuario.Email == email);
 
             if(usuario == null)
@@ -42,20 +40,16 @@ namespace Login_Readery.Controllers
                 return View("Index");
             }
 
-            // comparar byte a byte da senha
-            // SequenceEqual -> retorna false se qualquer byte estiver diferente
             if(!usuario.SenhaHash.SequenceEqual(senhaDigitadaHash))
             {
                 ViewBag.Erro = "E-mail ou senha incorretos.";
                 return View("Index");
             }
 
-            // Login estiver OK -> salva na sessão
             HttpContext.Session.SetString("UsuarioNome", usuario.Nome);
             HttpContext.Session.SetInt32("UsuarioId", usuario.IdUsuario);
 
-            // retorna para a index da home, não da login
-            return RedirectToAction("Index", "Home");
+            return RedirectToAction("Index", "Home"); // substituir HOME por LIVRO
         }
 
         public IActionResult Sair()
