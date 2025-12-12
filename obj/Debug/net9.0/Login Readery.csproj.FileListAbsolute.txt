@@ -509,7 +509,6 @@ C:\Users\rafae\OneDrive\Área de Trabalho\Login-Readery\obj\Debug\net9.0\refint\
 C:\Users\rafae\OneDrive\Área de Trabalho\Login-Readery\obj\Debug\net9.0\Login Readery.pdb
 C:\Users\rafae\OneDrive\Área de Trabalho\Login-Readery\obj\Debug\net9.0\Login Readery.genruntimeconfig.cache
 C:\Users\rafae\OneDrive\Área de Trabalho\Login-Readery\obj\Debug\net9.0\ref\Login Readery.dll
-C:\Users\rafae\OneDrive\Área de Trabalho\Login-Readery\obj\Debug\net9.0\compressed\7syx1eoz3i-9l2lnqtgva.gz
 C:\Users\54568719801\Desktop\Login-Readery\bin\Debug\net9.0\appsettings.Development.json
 C:\Users\54568719801\Desktop\Login-Readery\bin\Debug\net9.0\appsettings.json
 C:\Users\54568719801\Desktop\Login-Readery\bin\Debug\net9.0\Login Readery.staticwebassets.runtime.json
@@ -766,3 +765,4 @@ C:\Users\54568719801\Desktop\Login-Readery\obj\Debug\net9.0\Login Readery.pdb
 C:\Users\54568719801\Desktop\Login-Readery\obj\Debug\net9.0\Login Readery.genruntimeconfig.cache
 C:\Users\54568719801\Desktop\Login-Readery\obj\Debug\net9.0\ref\Login Readery.dll
 C:\Users\54568719801\Desktop\Login-Readery\obj\Debug\net9.0\compressed\7syx1eoz3i-dj3mf61dg2.gz
+C:\Users\rafae\OneDrive\Área de Trabalho\Login-Readery\obj\Debug\net9.0\compressed\7syx1eoz3i-bjldzfnp6h.gz

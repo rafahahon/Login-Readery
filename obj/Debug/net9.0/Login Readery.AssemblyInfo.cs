@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Login Readery")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad81642fc583d21526a9070846dd54fb30dd29ba")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+17f1421bcdd644d33303eba27ec2ea6e9eb45464")]
 [assembly: System.Reflection.AssemblyProductAttribute("Login Readery")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Login Readery")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

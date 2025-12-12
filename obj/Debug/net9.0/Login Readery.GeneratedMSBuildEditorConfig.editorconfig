@@ -17,29 +17,29 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Login_Readery
 build_property.RootNamespace = Login_Readery
-build_property.ProjectDir = C:\Users\54568719801\Desktop\Login-Readery\
+build_property.ProjectDir = C:\Users\rafae\OneDrive\Área de Trabalho\Login-Readery\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\54568719801\Desktop\Login-Readery
+build_property.MSBuildProjectDirectory = C:\Users\rafae\OneDrive\Área de Trabalho\Login-Readery
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/54568719801/Desktop/Login-Readery/Views/Home/Index.cshtml]
+[C:/Users/rafae/OneDrive/Área de Trabalho/Login-Readery/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/54568719801/Desktop/Login-Readery/Views/Login/Index.cshtml]
+[C:/Users/rafae/OneDrive/Área de Trabalho/Login-Readery/Views/Login/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/54568719801/Desktop/Login-Readery/Views/_ViewImports.cshtml]
+[C:/Users/rafae/OneDrive/Área de Trabalho/Login-Readery/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/54568719801/Desktop/Login-Readery/Views/_ViewStart.cshtml]
+[C:/Users/rafae/OneDrive/Área de Trabalho/Login-Readery/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

@@ -27,18 +27,19 @@ body {
     background-position: center;
     background-size: cover;
     background-attachment: fixed; 
-    overflow-x: hidden; 
 }
 
 .container-login {
-    width: 100vw;
-    height: 100vh;
+    width: 100%;
+    min-height: 100vh; 
     display: grid;
     grid-template-columns: 1fr 2fr;
 }
 
 .painel-esquerdo {
     background-image: url(../assets/Group\ 53\ \(1\).png);
+    background-size: cover;
+    background-position: center;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -48,6 +49,9 @@ body {
 
 .painel-direito {
     padding: 50px;
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
 }
 
 .borda {
@@ -57,7 +61,7 @@ body {
     padding: 60px 40px;
     border-color: var(--marrom-escuro);
     background-color: var(--marrom-claro);
-    margin: 100px 150px;
+    margin: 50px 0; 
 }
 
 .logo-login {
@@ -78,7 +82,6 @@ body {
     flex-direction: column;
     display: flex;
     justify-content: center;
-    gap: 20px;
 }
 
 .forms input {
@@ -92,6 +95,7 @@ body {
 }
 
 .forms label {
+    font-size: 1.2rem;
     display: flex;
     justify-content: start;
 }
@@ -99,7 +103,7 @@ body {
 .link-esqueci {
     color: var(--preto);
     text-decoration: none;
-    margin-left: 31%;
+    justify-content: center;
 }
 
 .link-esqueci:hover {
@@ -161,30 +165,48 @@ body {
 
 /*RESPONSIVIDADE - MEDIA QUERY*/
 
-@media (max-width: 900px) {
+@media only screen and (max-width: 500px) {
+
     .container-login {
-       height: 100vh;
+        grid-template-columns: 1fr; 
     }
 
     .painel-esquerdo {
-        margin: 0;
+        display: none;
+    }
+
+    .painel-direito {
+        padding: 20px;
+    }
+
+    .borda {
+        margin: 20px auto; 
+        padding: 40px 20px; 
+        width: 90%; 
+    }
+
+    .logo-login {
+        width: 150px; 
+        top: -101px; 
     }
 
     .forms input {
         width: 100%;
         height: auto;
-    }
-
-    .borda {
-        width: 80%;
+        margin-top: 10px;
+        margin-bottom: 10px;
     }
 
     .link-esqueci {
-        margin-left: 25%;
-        font-size: 0.7rem;
+        margin-left: 0;
+        text-align: center; 
+        width: 100%;
+        font-size: 1rem;
     }
 
     .botao-entrar, .botao-cadastro {
         font-size: 1rem;
+        width: 100%; 
+        padding: 15px;
     }
 }
