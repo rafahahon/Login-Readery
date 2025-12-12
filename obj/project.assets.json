@@ -7851,19 +7851,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\rafae\\.nuget\\packages\\": {}
+    "C:\\Users\\54568719801\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\Login-Readery\\Login Readery.csproj",
+      "projectUniqueName": "C:\\Users\\54568719801\\Desktop\\Login-Readery\\Login Readery.csproj",
       "projectName": "Login Readery",
-      "projectPath": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\Login-Readery\\Login Readery.csproj",
-      "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rafae\\OneDrive\\Área de Trabalho\\Login-Readery\\obj\\",
+      "projectPath": "C:\\Users\\54568719801\\Desktop\\Login-Readery\\Login Readery.csproj",
+      "packagesPath": "C:\\Users\\54568719801\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\54568719801\\Desktop\\Login-Readery\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\54568719801\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -7933,7 +7933,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.307/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
